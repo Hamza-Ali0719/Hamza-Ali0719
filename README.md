@@ -63,8 +63,8 @@ Designed and developed a database-driven Motorcycle Management System for managi
 
 ## Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/hamza-nisar-433b8332a
+💼 LinkedIn: www.linkedin.com/in/hamza-ali-433b8332a
 
-📧 Email: raoh1924@gmail.com
+📧 Email: hamzaali.se24@gmail.com
 
 ⭐ Always eager to learn, build, and contribute to meaningful projects.
